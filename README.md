@@ -1,5 +1,5 @@
 # prestashop_statuses
-<i>Upgrade order statuses when migrating from 1.4 to 1.5 and above Prestashop version<i>
+<i>Upgrade order statuses when migrating from 1.4 to 1.5 and above Prestashop version</i>
 
 Recently had to add manualy update of an already upgraded Prestashop version 1.4x to v. 1.6x via one-click update.
 
